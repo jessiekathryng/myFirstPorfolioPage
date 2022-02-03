@@ -1,0 +1,119 @@
+
+
+body{
+    background: #f5d9df;
+    font-family: "Nunito", sans-serif;
+    border: 5px solid white;
+    border-width: 30px;
+
+}
+
+#mainNavbar .navbar-brand {
+    color: rgba(139, 25, 79, 0.795);
+    font-size: 2rem;
+    font-weight: 300;
+    background-color: rgb(221, 137, 137);
+    
+ 
+}
+
+#mainNavbar {
+    font-size: 2rem;
+    font-weight: 300px;
+    color: rgba(255, 255, 255, 0.158);
+    width: 50%;
+    margin:0px auto;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: rgb(221, 137, 137);
+}
+   
+  
+
+#mainNavbar .nav-link {
+    color: white;
+    
+}
+
+#mainNavbar .nav-link:hover {
+    color: rgba(139, 25, 79, 0.795);
+}
+
+h2{
+
+    color: rgba(139, 25, 79, 0.795);
+}
+
+#Intro{
+    display: flex;
+   
+   
+}
+
+#aboutme{
+    border: 8px solid white;
+    border-radius: 20px;
+    padding-top: 2.5em;
+    margin-bottom: 5rem;
+}
+
+body{
+    padding-top: 10rem;
+    padding bottom: 2rem;
+}
+
+/*
+.img-thumbnail{
+    float: right;
+}*/
+
+#moreaboutme{ 
+    border: 8px solid white;
+    border-radius: 20px;
+    padding-top: 2.5em;
+    margin:0px auto;
+    margin-bottom: 5rem;
+    padding: 2em;
+}
+
+#projects{ 
+    border: 8px solid white;
+    border-radius: 20px;
+    padding-top: 2.5em;
+    margin:0px auto;
+    margin-bottom: 5rem;
+    padding: 2em;
+}
+
+#contactme{ 
+    border: 8px solid white;
+    border-radius: 20px;
+    padding-top: 2.5em;
+    margin:0px auto;
+    margin-bottom: 5rem;
+    padding: 2em;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+/*
+#lollipop{
+    margin-block-start: 0;
+
+
+}
+
+    /*
+    float: right;
+    margin-left: 5rem;
+    width: 35rem;
+    height: 30rem;
+    font-size: 20px;
+    font-weight: 200px;
+    display: flex;
+
+
+}
